@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 //----------------------------------------------------------
 //read matrix : cin>> in c++ , scanf() in c
 int cin(float a[100][100]){
@@ -15,7 +14,6 @@ int cin(float a[100][100]){
 	printf("\n----------------------------------------------------\n");
 return n;
 }
-
 //-----------------------------------------------------
 // show matrix : cout<< in c++ , printf() in c
 void cout(float a[100][100],int n,int show){
